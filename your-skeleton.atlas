@@ -1,270 +1,284 @@
 
 your-skeleton.png
-size: 1984,2006
+size: 2027,1942
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Belt
   rotate: false
-  xy: 478, 946
+  xy: 1181, 1790
   size: 356, 150
   orig: 356, 150
   offset: 0, 0
   index: -1
 Grenade
   rotate: true
-  xy: 1452, 1181
+  xy: 1006, 1801
   size: 139, 173
   orig: 140, 175
   offset: 0, 1
   index: -1
+Head
+  rotate: true
+  xy: 307, 1642
+  size: 232, 324
+  orig: 232, 324
+  offset: 0, 0
+  index: -1
 Holster
   rotate: true
-  xy: 1482, 1809
+  xy: 2, 1715
   size: 195, 303
   orig: 195, 303
   offset: 0, 0
   index: -1
-L_Arm_Full
-  rotate: true
-  xy: 478, 1298
-  size: 474, 698
-  orig: 474, 698
-  offset: 0, 0
-  index: -1
 L_Eyewhite
   rotate: false
-  xy: 657, 917
+  xy: 112, 1913
   size: 41, 27
   orig: 41, 27
   offset: 0, 0
   index: -1
 L_Hair
   rotate: true
-  xy: 1627, 1189
+  xy: 727, 1809
   size: 131, 277
   orig: 131, 277
   offset: 0, 0
   index: -1
 L_Pupil
   rotate: false
-  xy: 790, 930
+  xy: 2, 1926
   size: 18, 14
   orig: 19, 14
   offset: 1, 0
   index: -1
+Linear Dodge
+  rotate: true
+  xy: 1228, 1521
+  size: 251, 345
+  orig: 253, 364
+  offset: 1, 1
+  index: -1
 Neck
   rotate: true
-  xy: 1787, 1838
+  xy: 1539, 1774
   size: 166, 195
   orig: 166, 195
   offset: 0, 0
   index: -1
 Puddle
   rotate: false
-  xy: 478, 1774
+  xy: 2, 1358
   size: 1002, 230
   orig: 1044, 231
   offset: 42, 0
   index: -1
 R_Eyewhite
   rotate: false
-  xy: 478, 916
+  xy: 290, 1912
   size: 42, 28
   orig: 42, 28
   offset: 0, 0
   index: -1
 R_Hair
   rotate: true
-  xy: 1178, 1149
+  xy: 1736, 1769
   size: 171, 272
   orig: 171, 272
   offset: 0, 0
   index: -1
 R_Pupil
   rotate: false
-  xy: 772, 929
+  xy: 94, 1925
   size: 16, 15
   orig: 16, 16
   offset: 0, 0
   index: -1
-Trousers
-  rotate: false
-  xy: 2, 914
-  size: 474, 1090
-  orig: 474, 1090
-  offset: 0, 0
-  index: -1
-UpperTorsoAndNeck
-  rotate: true
-  xy: 2, 147
-  size: 765, 843
-  orig: 765, 843
-  offset: 0, 0
-  index: -1
 Upper_Strap
   rotate: true
-  xy: 478, 1098
+  xy: 633, 1590
   size: 198, 593
   orig: 199, 593
   offset: 0, 0
   index: -1
 droplet
   rotate: false
-  xy: 1073, 1160
+  xy: 590, 1876
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 droplet_effect/Layer 1
-  rotate: true
-  xy: 1136, 1107
+  rotate: false
+  xy: 406, 1900
   size: 51, 40
-  orig: 52, 42
-  offset: 1, 1
+  orig: 128, 128
+  offset: 39, 29
   index: -1
 droplet_effect/Layer 2
   rotate: false
-  xy: 1073, 1105
-  size: 61, 53
-  orig: 61, 54
-  offset: 0, 0
+  xy: 459, 1888
+  size: 60, 52
+  orig: 128, 128
+  offset: 33, 29
   index: -1
 droplet_effect/Layer 3
-  rotate: false
-  xy: 1073, 1226
-  size: 66, 70
-  orig: 68, 71
-  offset: 2, 1
+  rotate: true
+  xy: 656, 1874
+  size: 66, 69
+  orig: 128, 128
+  offset: 32, 30
   index: -1
 droplet_effect/Layer 4
   rotate: false
-  xy: 1787, 1785
-  size: 68, 51
-  orig: 71, 53
-  offset: 3, 1
+  xy: 521, 1888
+  size: 67, 52
+  orig: 128, 128
+  offset: 32, 29
   index: -1
 droplet_effect/Layer 5
   rotate: false
-  xy: 1452, 1140
-  size: 71, 39
-  orig: 72, 40
-  offset: 0, 1
+  xy: 334, 1901
+  size: 70, 39
+  orig: 128, 128
+  offset: 29, 29
   index: -1
 droplet_effect/Layer 6
   rotate: false
-  xy: 522, 917
+  xy: 155, 1913
   size: 70, 27
-  orig: 72, 30
-  offset: 1, 1
+  orig: 128, 128
+  offset: 29, 29
   index: -1
 droplet_effect/Layer 7
   rotate: false
-  xy: 700, 929
-  size: 70, 15
-  orig: 71, 18
-  offset: 0, 0
+  xy: 22, 1926
+  size: 70, 14
+  orig: 128, 128
+  offset: 29, 29
   index: -1
 rain/Layer 1
-  rotate: true
-  xy: 847, 646
-  size: 450, 642
-  orig: 450, 642
-  offset: 0, 0
-  index: -1
-rain/Layer 3
-  rotate: true
-  xy: 1178, 1322
-  size: 450, 642
-  orig: 450, 642
-  offset: 0, 0
-  index: -1
-rain/Layer 5
   rotate: false
-  xy: 1491, 496
+  xy: 1575, 1125
   size: 450, 642
   orig: 450, 642
-  offset: 0, 0
-  index: -1
-rain/Layer 7
-  rotate: false
-  xy: 847, 2
-  size: 450, 642
-  orig: 450, 642
-  offset: 0, 0
-  index: -1
-rain/Layer 9
-  rotate: true
-  xy: 1299, 44
-  size: 450, 642
-  orig: 450, 642
-  offset: 0, 0
-  index: -1
-swarm
-  rotate: false
-  xy: 594, 917
-  size: 61, 27
-  orig: 64, 64
-  offset: 3, 15
-  index: -1
-
-your-skeleton2.png
-size: 2002,1140
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-Head
-  rotate: true
-  xy: 1290, 2
-  size: 232, 324
-  orig: 232, 324
   offset: 0, 0
   index: -1
 rain/Layer 11
-  rotate: false
-  xy: 2, 496
+  rotate: true
+  xy: 646, 454
   size: 450, 642
   orig: 450, 642
   offset: 0, 0
   index: -1
 rain/Layer 13
   rotate: true
-  xy: 2, 44
+  xy: 1290, 221
   size: 450, 642
   orig: 450, 642
   offset: 0, 0
   index: -1
 rain/Layer 15
-  rotate: false
-  xy: 454, 496
+  rotate: true
+  xy: 2, 2
   size: 450, 642
   orig: 450, 642
   offset: 0, 0
   index: -1
 rain/Layer 17
   rotate: true
-  xy: 646, 44
+  xy: 646, 2
   size: 450, 642
   orig: 450, 642
   offset: 0, 0
   index: -1
+rain/Layer 3
+  rotate: true
+  xy: 2, 906
+  size: 450, 642
+  orig: 450, 642
+  offset: 0, 0
+  index: -1
+rain/Layer 5
+  rotate: true
+  xy: 646, 906
+  size: 450, 642
+  orig: 450, 642
+  offset: 0, 0
+  index: -1
+rain/Layer 7
+  rotate: true
+  xy: 1290, 673
+  size: 450, 642
+  orig: 450, 642
+  offset: 0, 0
+  index: -1
+rain/Layer 9
+  rotate: true
+  xy: 2, 454
+  size: 450, 642
+  orig: 450, 642
+  offset: 0, 0
+  index: -1
+swarm
+  rotate: false
+  xy: 227, 1913
+  size: 61, 27
+  orig: 64, 64
+  offset: 3, 15
+  index: -1
+
+your-skeleton2.png
+size: 1841,1766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Arm_Full
+  rotate: true
+  xy: 1094, 1290
+  size: 474, 698
+  orig: 474, 698
+  offset: 0, 0
+  index: -1
+Trousers
+  rotate: true
+  xy: 2, 1290
+  size: 474, 1090
+  orig: 474, 1090
+  offset: 0, 0
+  index: -1
+UpperTorsoAndNeck
+  rotate: true
+  xy: 544, 523
+  size: 765, 843
+  orig: 765, 843
+  offset: 0, 0
+  index: -1
+background
+  rotate: true
+  xy: 2, 328
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
 rain/Layer 19
   rotate: false
-  xy: 906, 496
+  xy: 1389, 646
   size: 450, 642
   orig: 450, 642
   offset: 0, 0
   index: -1
 rain/Layer 21
-  rotate: true
-  xy: 1358, 688
+  rotate: false
+  xy: 1389, 2
   size: 450, 642
   orig: 450, 642
   offset: 0, 0
   index: -1
 rain/Layer 23
   rotate: true
-  xy: 1358, 236
+  xy: 544, 71
   size: 450, 642
   orig: 450, 642
   offset: 0, 0
