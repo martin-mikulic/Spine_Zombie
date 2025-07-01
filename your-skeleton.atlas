@@ -55,17 +55,10 @@ L_Pupil
   index: -1
 Linear Dodge
   rotate: true
-  xy: 1228, 1521
+  xy: 1228, 1516
   size: 251, 345
   orig: 253, 364
   offset: 1, 1
-  index: -1
-Neck
-  rotate: true
-  xy: 1539, 1774
-  size: 166, 195
-  orig: 166, 195
-  offset: 0, 0
   index: -1
 Puddle
   rotate: false
@@ -83,7 +76,7 @@ R_Eyewhite
   index: -1
 R_Hair
   rotate: true
-  xy: 1736, 1769
+  xy: 1539, 1769
   size: 171, 272
   orig: 171, 272
   offset: 0, 0
